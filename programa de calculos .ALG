@@ -11,6 +11,7 @@ Var
  
 Inicio
 // Seção de Comandos, procedimento, funções, operadores, etc... 
+  escreval(" esse projeto esta dentro do github!")
  escreval("###programa de calculos###")
  escreval ("")
 escreval("digite a opção desejada: ")
